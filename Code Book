@@ -1,5 +1,6 @@
-## Code Book Course Project
+# Code Book Course Project
 This Code Book indicates all the variables in the "tidy_dataset.txt" and ummaries calculated, along with units, and any other relevant information.
+
 ## List of variables
  [1] "subject"              - IDETIFIER                        
  [2] "activity"             - IDENTIFIER                       
@@ -82,6 +83,7 @@ This Code Book indicates all the variables in the "tidy_dataset.txt" and ummarie
 [79] "fBodyBodyGyroJerkMag-mean()"    
 [80] "fBodyBodyGyroJerkMag-std()"     
 [81] "fBodyBodyGyroJerkMag-meanFreq()"
+
 ## List of activities
    Code               Name
 1:    1            WALKING
