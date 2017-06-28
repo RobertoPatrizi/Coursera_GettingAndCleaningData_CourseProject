@@ -5,7 +5,7 @@ During this project, I did make the below activities:
 2. unzip the file
 3. create the working directory G:/Anno 2017/Johns_Hopkins_Data_Science/3. Getting and Cleaning Data/Week 4/Course Project"
 4. develop the R script run_analysis, which make the below actions:
-   4.1. Load the activity and feature info.
+   4.1. Load the activity and feature info;
    4.2. Load training and test datasets, keeping only columns anout mean or standard deviation.
   4.3. Load activity and subject data for each dataset, and merges those columns with the dataset
   4.4. Merge the two datasets
