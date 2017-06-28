@@ -1,5 +1,6 @@
 # Code Book Course Project
-This Code Book indicates all the variables in the "tidy_dataset.txt" and ummaries calculated, along with units, and any other relevant information.
+This Code Book indicates all the variables in the "tidy_dataset.txt" and 
+summarizes calculated, along with units, and any other relevant information.
 
 ## List of variables
  [1] "subject"              - IDETIFIER                        
